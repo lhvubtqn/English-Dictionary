@@ -30,3 +30,4 @@ Data Structure - Final Assignment
   
 	> int main(array<String^>^ args){}
 
+	![Application UI](https://raw.githubusercontent.com/lhvubtqn/English-Dictionary/master/UI.jpg)
