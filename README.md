@@ -5,6 +5,8 @@ Data Structure - Final Assignment
 
 **Using:** CLR - Visual Studio 2017
 
+**Setup file is in Setup folder. Download and try!**
+
 ## NOTE
 
 - **Managed Class:** Always using pointer. 
