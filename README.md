@@ -5,7 +5,7 @@ Data Structure - Final Assignment
 
 **Using:** CLR - Visual Studio 2017
 
-**Setup file is in Setup folder. Download and try!**
+**Download Execution File or Setup File and try!**
 
 ## NOTE
 
