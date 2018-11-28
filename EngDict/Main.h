@@ -879,7 +879,7 @@ private: System::Windows::Forms::Label^  modifyAnounce;
 			this->Controls->Add(this->saveButton);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedDialog;
 			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
-			this->MinimizeBox = false;
+			this->MaximizeBox = false;
 			this->Name = L"Main";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"English Dictionary";
