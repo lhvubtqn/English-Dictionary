@@ -1,3 +1,4 @@
-EngDict/Debug/
-EngDict/Release/
+Debug/
+Release/
 .vs/
+x64/
